@@ -35,6 +35,8 @@ FTC年報は、Bailey Radium LaboratoriesとWilliam J. A. Baileyによる健康�
 ## 関連事件（Related Cases）
 
 - [常温核融合](cold-fusion-1989.md) — 科学的な可能性を示す説明と、個別の主張を支持する検証を区別する比較。両者の被害や責任が同じという意味ではない。
+- [リア放射線事故](lia-radiological-accident-2001.md) — 放射性物質の危険認識を比較する。ただし、管理を失った線源への偶発的な接近と、健康商品の宣伝は異なる。
+- [Wetterhahnのジメチル水銀事故](wetterhahn-dimethylmercury-1996.md) — 安全性の根拠を検討する比較。研究室の防護情報の問題を、疑似科学的な販売主張とは扱わない。
 
 ## 出典（Sources）
 
