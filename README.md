@@ -16,6 +16,8 @@ Science Misbelief & Pseudoscience Boundary Archive
 
 未特定の発光細菌、高温超伝導誤報、メタマテリアル超光速の3件は、事件が実在したという根拠を確認できるまで保留します。元のファイル名を維持し、未確認の筋書きを事実として掲載しません。
 
+2026-10-01には科学・技術事故に続き、[サリドマイド](cases/thalidomide.md)や[森永ヒ素ミルク](cases/morinaga-arsenic-milk-1955.md)、[Comet](cases/comet-fatigue-1954.md)、[ネブリウム](cases/nebulium.md)などを追加しました。[Semmelweisの手指消毒](cases/semmelweis-handwashing.md)は有効な介入の対照例です。実在する信号や観測差の説明が変わった事例には「原因帰属・モデルの不完全さ」を設け、観測自体の誤りと区別します。
+
 ## 対象と編集方針
 
 - 科学者による観測・実験・解析の誤認と、その訂正。
